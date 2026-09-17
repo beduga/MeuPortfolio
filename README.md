@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Tecn%C3%B3logo+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Buscando+est%C3%A1gio+em+Dados+%2F+Tecnologia;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel)](https://git.io/typing-svg)
 
-[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://SEU-LINK-DO-PORTFOLIO-AQUI)
+[![Portfólio](https://img.shields.io/badge/Portf%C3%B3lio-22C55E?style=for-the-badge&logo=googlechrome&logoColor=white)](https://beduga.github.io/MeuPortfolio/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-22C55E?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/eduardo-silva-2a9823355)
 [![Gmail](https://img.shields.io/badge/Gmail-22C55E?style=for-the-badge&logo=gmail&logoColor=white)](mailto:eduardosilva.nascimento68@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-22C55E?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beduga)

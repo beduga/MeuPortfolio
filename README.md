@@ -1,5 +1,3 @@
-
-[README.md](https://github.com/user-attachments/files/32358451/README.md)
 # Olá, eu sou o Eduardo 👋
 
 [![Typing SVG](https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&width=800&lines=Estudante+de+Ci%C3%AAncia+da+Computa%C3%A7%C3%A3o;Tecn%C3%B3logo+em+An%C3%A1lise+e+Desenvolvimento+de+Sistemas;Buscando+est%C3%A1gio+em+Dados+%2F+Tecnologia;SQL+%C2%B7+Python+%C2%B7+Power+BI+%C2%B7+Excel)](https://git.io/typing-svg)

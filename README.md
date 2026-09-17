@@ -32,10 +32,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=beduga&theme=radical&hide_border=true&background=0D1117&stroke=22C55E&ring=22C55E&fire=22C55E&currStreakLabel=22C55E)
 
-## 📈 Estatísticas do GitHub
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=beduga&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=22C55E&text_color=c9d1d9)
-
 ### ⭐ Obrigado por visitar meu perfil!
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=beduga&color=22C55E&style=for-the-badge)
